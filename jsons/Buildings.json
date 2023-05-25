@@ -1,0 +1,32 @@
+[
+    // Wonders
+    {
+        "name": "Holy temple",
+
+        "faith": 2,
+
+        "requiredTech": "Architecture",
+
+        "uniques": [
+            "Hidden when religion is disabled",
+            "[+50]% [Faith]",
+            "[+50]% [Faith] [in all cities connected to capital]"],
+
+        "isWonder": true
+    },
+    {
+        "name": "Grand knight school",
+
+		"science": 1,
+
+        "greatPersonPoints": {"Great Scientist": 1},
+        "percentStatBonus": {"science": 20},
+
+        "requiredTech": "Chivalry",
+
+        "uniques": [
+            "All newly-trained [relevant] units [in this city] receive the [Shock I] promotion"],
+
+        "isWonder": true
+    }
+]
