@@ -8,7 +8,7 @@
         "requiredTech": "Architecture",
 
         "uniques": [
-            "Hidden when religion is disabled",
+            "Only available <when religion is enabled>",
             "[+50]% [Faith]",
             "[+50]% [Faith] [in all cities connected to capital]"],
 
