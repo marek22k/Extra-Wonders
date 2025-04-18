@@ -28,5 +28,118 @@
             "All newly-trained [relevant] units [in this city] receive the [Shock I] promotion"],
 
         "isWonder": true
-    }
+    },
+    {
+        "name": "Mont-Saint-Michel",
+
+		"faith": 3,
+
+        "greatPersonPoints": {"Great Engineer": 2},
+        "percentStatBonus": {"faith": 20},
+
+        "requiredTech": "Theology",
+
+        "uniques": [
+            "Gain a free [Pantheon] belief", "(if you founded a religion)", "[+30]% growth [in this city]"],
+
+        "isWonder": true
+    },	
+    {
+        "name": "Praha castle",
+
+		"Production": 6,
+
+        "greatPersonPoints": {"Great Engineer": 3},
+        "percentStatBonus": {"Food": 15},
+
+        "requiredTech": "Economics",
+
+        "uniques": [
+            "[+2 Gold] from all [Culture] buildings", "[+5 Gold] [in this city] <after discovering [Flight]>"],
+
+        "isWonder": true
+    },
+    {
+        "name": "Fushimi Inari-taisha",
+
+		"Faith": 4,
+	        "Food": 4,
+        "greatPersonPoints": {"Great Engineer": 1},
+
+        "requiredTech": "Horseback Riding",
+
+        "uniques": [
+            "All newly-trained [relevant] units [in this city] receive the [Medic] promotion"],
+
+        "isWonder": true
+    },	
+    {
+        "name": "Bayon",
+
+		"Happiness": 4,
+	        "Food": 4,
+        "greatPersonPoints": {"Great Engineer": 2},
+
+        "requiredTech": "Civil Service",
+
+        "uniques": [
+            "[+25]% growth [in capital]"],
+
+        "isWonder": true
+    },	
+
+    {
+        "name": "Cologne Cathedral",
+
+		"Happiness": 5,
+        "greatPersonPoints": {"Great Artist": 1},
+
+        "requiredTech": "Compass",
+
+        "uniques": [
+            "[+1] population [in all cities]", "Free Social Policy"],
+
+        "isWonder": true
+    },
+    {
+        "name": "Sagrada Familia",
+
+		"Happiness": 2,
+	        "faith": 12,
+        "greatPersonPoints": {"Great Artist": 3},
+        "percentStatBonus": {"culture": 20},
+        "requiredTech": "Ballistics",
+
+        "uniques": [
+            "Free Social Policy", "Each city founded increases culture cost of policies [10]% less than normal"],
+
+        "isWonder": true
+    },	
+    {
+        "name": "Empire State Building",
+
+		"Production": 6,
+        "greatPersonPoints": {"Great Engineer": 3},
+        "percentStatBonus": {"Production": 15},
+        "requiredTech": "Rocketry",
+
+        "uniques": [
+            "Provides [10] [Aluminum]", "[+2 Production] from [River] tiles [in this city]"],
+
+        "isWonder": true
+    },	
+    {
+        "name": "Times Square",
+
+		"culture": 6,
+        "greatPersonPoints": {"Great Artist": 3},
+        "percentStatBonus": {"culture": 15},
+        "requiredTech": "Lasers",
+
+        "uniques": [
+            "Free [Great Artist] appears", "Empire enters golden age"],
+
+        "isWonder": true
+    },		
+	
 ]
